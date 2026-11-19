@@ -1,6 +1,6 @@
 # Regresión logística binaria sobre MNIST: Scikit-Learn (Python) vs C++ con Eigen
 
-Proyecto final de semestre 2, **Redes Neuronales**
+Proyecto final de semestre, **Redes Neuronales**
 Universidad Sergio Arboleda, Ciencias de la Computación e Inteligencia Artificial
 Docente: Oscar Andrés Arias Moyano
 
